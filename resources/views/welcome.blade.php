@@ -62,7 +62,6 @@
 
     <div class="page-header" data-parallax="true"
          style="background-image: url('https://i.dailymail.co.uk/i/pix/2014/10/22/1413987860780_Image_galleryImage_Steyn_City_s_Golf_Clubhou.JPG');">
-        <div class="filter"></div>
         <div class="container">
             <div class="motto text-center">
 
