@@ -12,16 +12,16 @@
     <meta name="viewport" content="width=device-width" />
 
 	<!-- Bootstrap core CSS     -->
-	<link href="../assets/css/bootstrap.min.css" rel="stylesheet" />
-	<link href="../assets/css/paper-kit.css?v=2.1.0" rel="stylesheet"/>
+	<link href="/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/css/paper-kit.css?v=2.1.0" rel="stylesheet"/>
 
 	<!--  CSS for Demo Purpose, don't include it in your project     -->
-	<link href="../assets/css/demo.css" rel="stylesheet" />
+	<link href="/css/demo.css" rel="stylesheet" />
 
     <!--     Fonts and icons     -->
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,300,700' rel='stylesheet' type='text/css'>
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
-    <link href="../assets/css/nucleo-icons.css" rel="stylesheet">
+    <link href="/css/nucleo-icons.css" rel="stylesheet">
 
 </head>
 <body>
@@ -289,12 +289,12 @@
 </body>
 
 <!-- Core JS Files -->
-<script src="../assets/js/jquery-3.2.1.js" type="text/javascript"></script>
-<script src="../assets/js/jquery-ui-1.12.1.custom.min.js" type="text/javascript"></script>
-<script src="../assets/js/popper.js" type="text/javascript"></script>
-<script src="../assets/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/js/jquery-3.2.1.js" type="text/javascript"></script>
+<script src="/js/jquery-ui-1.12.1.custom.min.js" type="text/javascript"></script>
+<script src="/js/popper.js" type="text/javascript"></script>
+<script src="/js/bootstrap.min.js" type="text/javascript"></script>
 
 <!--  Paper Kit Initialization snd functons -->
-<script src="../assets/js/paper-kit.js?v=2.1.0"></script>
+<script src="/js/paper-kit.js?v=2.1.0"></script>
 
 </html>
