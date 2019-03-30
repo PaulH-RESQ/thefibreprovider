@@ -66,11 +66,6 @@
         <div class="container">
             <div class="motto text-center">
 
-
-
-
-
-
             </div>
         </div>
     </div>

@@ -1779,7 +1779,6 @@ textarea.form-control {
   /* IE10+ CSS styles go here */
   .page-header .content-center {
     position: absolute;
-    width: 100%
     top: 50%;
     left: 50%;
     transform: translate(-50%, -75%);
@@ -5673,7 +5672,7 @@ textarea.form-control {
   min-height: 100vh;
   max-height: 999px;
   overflow: hidden;
-  position: relative;
+  position: absolute;
   width: 100%;
   z-index: 1;
   display: flex;
