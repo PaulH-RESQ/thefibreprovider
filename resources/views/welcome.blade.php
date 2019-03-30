@@ -79,74 +79,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 ml-auto mr-auto">
-                        <div style="background-image: url('https://www.steyncity.co.za/images/vision.jpg');"
-                             class="estate-page-banner-section"></div>
-
                         <h3>
-                            On the edge of Sandton, connecting Fourways to Lanseria, Broadacres and Midrand, lies the parkland residence of Steyn City. Steyn City Parkland Residence comprises some 2000 acres of land currently being developed to create the largest parkland residence in South Africa.
+                          Browse through the list of available service providers and select a package which suits you.
                         </h3>
 
                     </div>
                 </div>
-                <br/><br/>
-                <div class="row">
-                    <div class="col-md-3">
-                        <div class="info">
-                            <div class="icon icon-danger">
-                                <i class="nc-icon nc-album-2"></i>
-                            </div>
-                            <div class="description">
-                                <h4 class="info-title">Beautiful Gallery</h4>
-                                <p class="description">Spend your time generating new ideas. You don't have to think of
-                                    implementing.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="info">
-                            <div class="icon icon-danger">
-                                <i class="nc-icon nc-bulb-63"></i>
-                            </div>
-                            <div class="description">
-                                <h4 class="info-title">New Ideas</h4>
-                                <p>Larger, yet dramatically thinner. More powerful, but remarkably power efficient.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="info">
-                            <div class="icon icon-danger">
-                                <i class="nc-icon nc-chart-bar-32"></i>
-                            </div>
-                            <div class="description">
-                                <h4 class="info-title">Statistics</h4>
-                                <p>Choose from a variety of many colors resembling sugar paper pastels.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="info">
-                            <div class="icon icon-danger">
-                                <i class="nc-icon nc-sun-fog-29"></i>
-                            </div>
-                            <div class="description">
-                                <h4 class="info-title">Delightful design</h4>
-                                <p>Find unique and handmade delightful designs related items directly from our
-                                    sellers.</p>
-                            </div>
-                        </div>
-                    </div>
+
                 </div>
 
-            </div>
-        </div>
-
-        <div class="section section-dark text-center">
-            <div class="container">
-                <h2 class="title">
-                    <img src="/img/sites/router-color.png"
-                         style="max-height: 64px; vertical-align: center; padding-right: 10px;"/> Available Packages
-                </h2>
             </div>
         </div>
 
