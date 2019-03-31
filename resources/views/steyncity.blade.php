@@ -118,7 +118,14 @@
         <!-- <div class="carousel-item">
             <img class="d-block img-fluid" src="assets/imgs/banners/banner4.jpg" alt="Third slide">
         </div>
-        <div class="carousel-item">
+        <div class="carousel-item">            <script>
+              document.write(new Date().getFullYear())
+            </script>
+            All Rights Reserved || <b class="font-italic font-weight-bold">Powered by Fibre Compare</b>
+            All Rights Reserved || <b class="font-italic font-weight-bold">Powered by The Fibre Provider</b>
+          </p>
+        </div>
+      </div>
             <img class="d-block img-fluid" src="assets/imgs/banners/mtn-banner.jpg" alt="Third slide">
         </div>
         <div class="carousel-item">
@@ -160,8 +167,1616 @@
 
     <!-- RESULT -->
     <div class="row result mt-5">
+<div class="col-sm-12 mb-4">
+  <table id="table-1" class="ml-4 table table-responsive">
+    <thead>
+      <tr>
+        <th colspan="6">
+          <div class="row">
+            <div class="col-sm-12">
+              <img class="provider-logo" src="assets/imgs/providers/afrihost.png" alt="img">
+            </div>
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
 
-    </div>
+	          <td>
+            	    <div class="prices ml-4 mr-4">
+	              <h4>5Mbps</h4>
+	              <p>Uncapped</p>
+	              <h3>N/A</h3>
+	            </div>
+	    	  </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>10Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R767</h3>
+		<button id="show-all" data-id="1" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>25Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R1067</h3>
+		<button id="show-all" data-id="1" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>50Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R1267</h3>
+		<button id="show-all" data-id="1" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>100Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R1717</h3>
+		<button id="show-all" data-id="1" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>200Mbps</h4>
+		<p>Uncapped </p>
+		<h3>R2217</h3>
+		<button id="show-all" data-id="1" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div id="more-1" class="ml-2 col-sm-12" style="display:none">
+    <table class="table table-responsive">
+      <thead style="background: #c0392b;">
+        <tr>
+          <th colspan="3">
+            <div class="row">
+              <div class="col-sm-6">
+                <img class="provider-logo" src="assets/imgs/providers/afrihost_bw.png" alt="img">
+              </div>
+              <div class="col-sm-6">
+                <div style="display:inline-flex" class="float-right">
+                  <a id="close-btn" data-id="1">
+                    <h2 class="text-white close-text">Close</h2>
+                    <img class="close-icon" src="assets/imgs/icons/cancel_icon.png" alt="img">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  10Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">10Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">10Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 10 Mbps Uncapped Fibre line (10 down, 10 up)<br>Data 10 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R767</h3>
+                <button id="order" data-provider="1" data-id="2" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  25Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">25Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">25Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 25 Mbps Uncapped Fibre line (25 down, 25 up)<br>Data 25 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R1067</h3>
+                <button id="order" data-provider="1" data-id="3" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  50Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">50Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">50Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 50 Mbps Uncapped Fibre line (50 down, 50 up)<br>Data 50 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R1267</h3>
+                <button id="order" data-provider="1" data-id="4" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  100Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">100Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">100Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 100 Mbps Uncapped Fibre line (100 down, 100 up)<br>100 Mbps | Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R1717</h3>
+                <button id="order" data-provider="1" data-id="5" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  200Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">200Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">200Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped </h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 200 Mbps Uncapped Fibre line (200 down, 200 up)<br>200 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R2217</h3>
+                <button id="order" data-provider="1" data-id="6" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+<div class="col-sm-12 mb-4">
+  <table id="table-5" class="ml-4 table table-responsive">
+    <thead>
+      <tr>
+        <th colspan="6">
+          <div class="row">
+            <div class="col-sm-12">
+              <img class="provider-logo" src="assets/imgs/providers/homeconnect.png" alt="img">
+            </div>
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>5Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R558</h3>
+		<button id="show-all" data-id="5" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>10Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R598</h3>
+		<button id="show-all" data-id="5" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>25Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R798</h3>
+		<button id="show-all" data-id="5" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>50Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R998</h3>
+		<button id="show-all" data-id="5" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>100Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R1208</h3>
+		<button id="show-all" data-id="5" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	          <td>
+            	    <div class="prices ml-4 mr-4">
+	              <h4>200Mbps</h4>
+	              <p>Uncapped</p>
+	              <h3>N/A</h3>
+	            </div>
+	    	  </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div id="more-5" class="ml-2 col-sm-12" style="display:none">
+    <table class="table table-responsive">
+      <thead style="background: #00b1e3;">
+        <tr>
+          <th colspan="3">
+            <div class="row">
+              <div class="col-sm-6">
+                <img class="provider-logo" src="assets/imgs/providers/homeconnect_bw.png" alt="img">
+              </div>
+              <div class="col-sm-6">
+                <div style="display:inline-flex" class="float-right">
+                  <a id="close-btn" data-id="5">
+                    <h2 class="text-white close-text">Close</h2>
+                    <img class="close-icon" src="assets/imgs/icons/cancel_icon.png" alt="img">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  5Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">5Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">5Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 5 Mbps Uncapped Fibre line (5 down, 5 up)<br>Data 5 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R558</h3>
+                <button id="order" data-provider="5" data-id="25" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  10Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">10Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">10Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 10 Mbps Uncapped Fibre line (10 down, 10 up)<br>Data 10 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R598</h3>
+                <button id="order" data-provider="5" data-id="26" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  25Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">25Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">25Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 25 Mbps Uncapped Fibre line (25 down, 25 up)<br>Data 25 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R798</h3>
+                <button id="order" data-provider="5" data-id="27" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  50Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">50Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">50Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 50 Mbps Uncapped Fibre line (50 down, 50 up)<br>Data 50 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R998</h3>
+                <button id="order" data-provider="5" data-id="28" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  100Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">100Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">100Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 100 Mbps Uncapped Fibre line (100 down, 100 up)<br>100 Mbps | Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R1208</h3>
+                <button id="order" data-provider="5" data-id="29" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+<div class="col-sm-12 mb-4">
+  <table id="table-4" class="ml-4 table table-responsive">
+    <thead>
+      <tr>
+        <th colspan="6">
+          <div class="row">
+            <div class="col-sm-12">
+              <img class="provider-logo" src="assets/imgs/providers/firestream.png" alt="img">
+            </div>
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+
+	          <td>
+            	    <div class="prices ml-4 mr-4">
+	              <h4>5Mbps</h4>
+	              <p>Uncapped</p>
+	              <h3>N/A</h3>
+	            </div>
+	    	  </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>10Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R579</h3>
+		<button id="show-all" data-id="4" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>25Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R799</h3>
+		<button id="show-all" data-id="4" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>50Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R999</h3>
+		<button id="show-all" data-id="4" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>100Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R1299</h3>
+		<button id="show-all" data-id="4" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>200Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R1999</h3>
+		<button id="show-all" data-id="4" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div id="more-4" class="ml-2 col-sm-12" style="display:none">
+    <table class="table table-responsive">
+      <thead style="background: #e04611;">
+        <tr>
+          <th colspan="3">
+            <div class="row">
+              <div class="col-sm-6">
+                <img class="provider-logo" src="assets/imgs/providers/firestream_bw.png" alt="img">
+              </div>
+              <div class="col-sm-6">
+                <div style="display:inline-flex" class="float-right">
+                  <a id="close-btn" data-id="4">
+                    <h2 class="text-white close-text">Close</h2>
+                    <img class="close-icon" src="assets/imgs/icons/cancel_icon.png" alt="img">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  10Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">10Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">10Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - R570<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 10 Mbps Uncapped Fibre line (10 down, 10 up)<br>Data 10 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R579</h3>
+                <button id="order" data-provider="4" data-id="20" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  25Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">25Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">25Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - R570<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 25 Mbps Uncapped Fibre line (25 down, 25 up)<br>Data 25 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R799</h3>
+                <button id="order" data-provider="4" data-id="21" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  50Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">50Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">50Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - R570<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 50 Mbps Uncapped Fibre line (50 down, 50 up)<br>Data 50 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R999</h3>
+                <button id="order" data-provider="4" data-id="22" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  100Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">100Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">100Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - R570<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 100 Mbps Uncapped Fibre line (100 down, 100 up)<br>100 Mbps | Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R1299</h3>
+                <button id="order" data-provider="4" data-id="23" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  200Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">200Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">200Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - R570<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 200 Mbps Uncapped Fibre line (200 down, 200 up)<br>200 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R1999</h3>
+                <button id="order" data-provider="4" data-id="24" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+<div class="col-sm-12 mb-4">
+  <table id="table-2" class="ml-4 table table-responsive">
+    <thead>
+      <tr>
+        <th colspan="6">
+          <div class="row">
+            <div class="col-sm-12">
+              <img class="provider-logo" src="assets/imgs/providers/axxess.png" alt="img">
+            </div>
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+
+	          <td>
+            	    <div class="prices ml-4 mr-4">
+	              <h4>5Mbps</h4>
+	              <p>Uncapped</p>
+	              <h3>N/A</h3>
+	            </div>
+	    	  </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>10Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R779</h3>
+		<button id="show-all" data-id="2" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>25Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R1019</h3>
+		<button id="show-all" data-id="2" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>50Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R1219</h3>
+		<button id="show-all" data-id="2" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>100Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R1579</h3>
+		<button id="show-all" data-id="2" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>200Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R2279</h3>
+		<button id="show-all" data-id="2" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div id="more-2" class="ml-2 col-sm-12" style="display:none">
+    <table class="table table-responsive">
+      <thead style="background: #ffb700;">
+        <tr>
+          <th colspan="3">
+            <div class="row">
+              <div class="col-sm-6">
+                <img class="provider-logo" src="assets/imgs/providers/axxess_bw.png" alt="img">
+              </div>
+              <div class="col-sm-6">
+                <div style="display:inline-flex" class="float-right">
+                  <a id="close-btn" data-id="2">
+                    <h2 class="text-white close-text">Close</h2>
+                    <img class="close-icon" src="assets/imgs/icons/cancel_icon.png" alt="img">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  10Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">10Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">10Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 10 Mbps Uncapped Fibre line (10 down, 10 up)<br>Data 10 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R779</h3>
+                <button id="order" data-provider="2" data-id="8" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  25Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">25Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">25Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 25 Mbps Uncapped Fibre line (25 down, 25 up)<br>Data 25 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R1019</h3>
+                <button id="order" data-provider="2" data-id="9" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  50Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">50Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">50Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 50 Mbps Uncapped Fibre line (50 down, 50 up)<br>Data 50 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R1219</h3>
+                <button id="order" data-provider="2" data-id="10" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  100Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">100Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">100Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 100 Mbps Uncapped Fibre line (100 down, 100 up)<br>100 Mbps | Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R1579</h3>
+                <button id="order" data-provider="2" data-id="11" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  200Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">200Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">200Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - Free!<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 200 Mbps Uncapped Fibre line (200 down, 200 up)<br>200 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R2279</h3>
+                <button id="order" data-provider="2" data-id="12" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+<div class="col-sm-12 mb-4">
+  <table id="table-3" class="ml-4 table table-responsive">
+    <thead>
+      <tr>
+        <th colspan="6">
+          <div class="row">
+            <div class="col-sm-12">
+              <img class="provider-logo" src="assets/imgs/providers/cisp.png" alt="img">
+            </div>
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+
+	          <td>
+            	    <div class="prices ml-4 mr-4">
+	              <h4>5Mbps</h4>
+	              <p>Uncapped</p>
+	              <h3>N/A</h3>
+	            </div>
+	    	  </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>10Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R709</h3>
+		<button id="show-all" data-id="3" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>25Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R909</h3>
+		<button id="show-all" data-id="3" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>50Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R1119</h3>
+		<button id="show-all" data-id="3" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>100Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R1419</h3>
+		<button id="show-all" data-id="3" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+
+	    <td>
+            	<div class="prices ml-4 mr-4">
+		<h4>200Mbps</h4>
+		<p>Uncapped</p>
+		<h3>R2019</h3>
+		<button id="show-all" data-id="3" class="btn-buy mb-3">More Info</button>
+	    	</div>
+	    </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div id="more-3" class="ml-2 col-sm-12" style="display:none">
+    <table class="table table-responsive">
+      <thead style="background: #0060A1;">
+        <tr>
+          <th colspan="3">
+            <div class="row">
+              <div class="col-sm-6">
+                <img class="provider-logo" src="assets/imgs/providers/cisp_bw.png" alt="img">
+              </div>
+              <div class="col-sm-6">
+                <div style="display:inline-flex" class="float-right">
+                  <a id="close-btn" data-id="3">
+                    <h2 class="text-white close-text">Close</h2>
+                    <img class="close-icon" src="assets/imgs/icons/cancel_icon.png" alt="img">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  10Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">10Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">10Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - R1200<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 10 Mbps Uncapped Fibre line (10 down, 10 up)<br>Data 10 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R709</h3>
+                <button id="order" data-provider="3" data-id="14" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  25Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">25Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">25Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - R1200<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 25 Mbps Uncapped Fibre line (25 down, 25 up)<br>Data 25 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R909</h3>
+                <button id="order" data-provider="3" data-id="15" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  50Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">50Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">50Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - R1200<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 50 Mbps Uncapped Fibre line (50 down, 50 up)<br>Data 50 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R1119</h3>
+                <button id="order" data-provider="3" data-id="16" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  100Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">100Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">100Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - R1200<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 100 Mbps Uncapped Fibre line (100 down, 100 up)<br>100 Mbps | Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R1419</h3>
+                <button id="order" data-provider="3" data-id="17" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-4 pl-4 ">
+            <div class="row pt-5">
+              <div class="col-sm-12" style="width: 150px">
+                <h4 style="font-size: 32px;margin-top: 30px;" class="primary">
+                  200Mbps
+                </h4>
+              </div>
+            </div>
+          </td>
+          <td class="pl-5 pr-5">
+            <div class="left-line">
+              <div>
+                <div class="col-sm-12 mt-2 mb-2">
+                  <div class="row pt-3">
+                    <div class="col-4">
+                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5 class="primary">200Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5 class="primary">200Mbps</h5>
+                    </div>
+                    <div class="col-4">
+                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5 class="primary">Uncapped</h5>
+                    </div>
+                  </div>
+                </div>
+                <p>Package Details</p>
+                <p>Installation and Connection Fee - R1200<br>Free wireless Fibre-ready router<br>No contracts (Month-to-month in advance)<br>Line Speed 200 Mbps Uncapped Fibre line (200 down, 200 up)<br>200 Mbps Uncapped and Unshaped</p>
+              </div>
+
+            </div>
+          </td>
+          <td class="p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <h3 class="price-result">R2019</h3>
+                <button id="order" data-provider="3" data-id="18" class="btn-order-pack mb-3"><a>Order</a></button>
+              </div>
+            </div>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+</div>
+
+</div>
 
       <!--
 <div class="row">
