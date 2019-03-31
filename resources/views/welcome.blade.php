@@ -61,7 +61,7 @@
 
 
     <div class="page-header" data-parallax="true"
-         style="background-image: url('https://i.dailymail.co.uk/i/pix/2014/10/22/1413987860780_Image_galleryImage_Steyn_City_s_Golf_Clubhou.JPG');">
+         style="background-image: url('http://demo.steyncityfibre.co.za/assets/imgs/banners/steyn-city.jpg');">
         <div class="container">
             <div class="motto text-center">
 
