@@ -20,19 +20,19 @@
   <meta charset="utf-8">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="shortcut icon" href="assets/imgs/Favicon - 16x16px.png" type="image/x-icon">
+  <link rel="shortcut icon" href="/assets/imgs/Favicon - 16x16px.png" type="image/x-icon">
   <!-- Bootstrap CSS -->
   <!-- Bootstrap core CSS -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+  <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
   <!-- Custom styles for this template -->
-  <link rel="stylesheet" href="assets/css/style.css">
-  <link rel="stylesheet" href="assets/css/loader.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/loader.css">
   <!-- <link rel="stylesheet" href="assets/css/login-register.css"> -->
   <!-- <link rel="stylesheet" href="assets/css/budget-slider.css"> -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.3/assets/owl.carousel.min.css">
   <!-- <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/smoothness/jquery-ui.css"> -->
-  <link href="assets/css/business-frontpage.css" rel="stylesheet">
+  <link href="/assets/css/business-frontpage.css" rel="stylesheet">
   <!-- <link rel="stylesheet" hre="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous"> -->
 </head>
 
@@ -73,7 +73,7 @@
 <nav class="navbar nav-custom navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
         <a class="navbar-brand" href="index.php">
-            <img src="assets/imgs/logo/cs_bw_sm.png">
+            <img src="/assets/imgs/logo/cs_bw_sm.png">
             Connectivity Services
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
@@ -113,7 +113,7 @@
     </ol>
     <div class="carousel-inner" role="listbox">
         <div class="carousel-item active">
-            <img class="d-block img-fluid" src="assets/imgs/banners/steyn-city.jpg" alt="First slide">
+            <img class="d-block img-fluid" src="/assets/imgs/banners/steyn-city.jpg" alt="First slide">
         </div>
         <!-- <div class="carousel-item">
             <img class="d-block img-fluid" src="assets/imgs/banners/banner4.jpg" alt="Third slide">
@@ -255,7 +255,7 @@
   <!-- <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script> -->
   <!-- <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"> -->
   <!--FONT AWESOME v-->
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mockjax/1.6.2/jquery.mockjax.js"></script> -->
   <!--script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script-->
   <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script> -->
@@ -265,9 +265,9 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.3/owl.carousel.min.js"></script>
   <script src="/dashboard/assets/js/handlebars.min-latest.js"></script>
   <script src="/dashboard/assets/js/cleave.min.js"></script>
-  <script src="assets/js/loader.js"></script>
-  <script src="assets/js/scrollup.js"></script>
-  <script src="assets/js/index.js"></script>
+  <script src="/assets/js/loader.js"></script>
+  <script src="/assets/js/scrollup.js"></script>
+  <script src="/assets/js/index.js"></script>
 
 
 </body>
