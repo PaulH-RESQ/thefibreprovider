@@ -200,7 +200,7 @@ body {
 }
 
 a {
-  color: #51bcda;
+  color: ##333333;
 }
 a:hover, a:focus {
   color: #2ba9cd;
@@ -514,9 +514,10 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 }
 
 .btn-warning {
-  background-color: #fbc658;
-  border-color: #fbc658;
-  color: #FFFFFF;
+  background-color: ##ffc107;
+  border-color: ##ffc107;
+  color: #000000;
+  font-weight: inherit;
   opacity: 1;
   filter: alpha(opacity=100);
 }
@@ -2455,7 +2456,7 @@ textarea.form-control {
 
 .card {
   border-radius: 12px;
-  box-shadow: 0 6px 10px -4px rgba(0, 0, 0, 0.15);
+  box-shadow: 3px 6px 10px 0px #333333;
   background-color: #FFFFFF;
   color: #333333;
   margin-bottom: 20px;
@@ -5669,7 +5670,7 @@ textarea.form-control {
   background-color: #B2AFAB;
   background-position: center center;
   background-size: cover;
-  min-height: 100vh;
+  min-height: 40vh;
   max-height: 999px;
   overflow: hidden;
   position: relative;

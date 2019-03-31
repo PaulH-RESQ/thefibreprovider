@@ -95,7 +95,7 @@
 Free wireless Fibre-ready router<br>
 No contracts (Month-to-month in advance)<br>
 Line Speed 10 Mbps Uncapped Fibre line (10 down, 10 up)<br>
-Data 10 Mbps Uncapped and Unshaped?</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=2" title="Select Package" class="btn btn-warning btn-sm btn-choose-package"><i class="fa fa-check-circle-o"></i> Choose
+Data 10 Mbps Uncapped and Unshaped?</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=2" title="Select Package" class="btn btn-warning btn-med btn-round btn-choose-package"><i class="fa fa-check-circle-o"></i> Order
                               </a></div></div></div><div class="col-md-2"><div class="package-info-box"><div class="speed-info">
                               20Mbps <i class="fa fa-download"></i></div> <div>Uncapped</div> <div class="monthly-price-info">
                               R860
@@ -105,7 +105,7 @@ Data 10 Mbps Uncapped and Unshaped?</div></div></div> <div class="mt-3"><a href=
 Free wireless Fibre-ready router<br>
 No contracts (Month-to-month in advance)<br>
 Line Speed 20 Mbps Uncapped Fibre line (20 down, 20 up)<br>
-Data 20 Mbps Uncapped and Unshaped?</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=3" title="Select Package" class="btn btn-warning btn-sm btn-choose-package"><i class="fa fa-check-circle-o"></i> Choose
+Data 20 Mbps Uncapped and Unshaped?</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=3" title="Select Package" class="btn btn-warning btn-med btn-round btn-choose-package"><i class="fa fa-check-circle-o"></i> Order
                               </a></div></div></div><div class="col-md-2"><div class="package-info-box"><div class="speed-info">
                               50Mbps <i class="fa fa-download"></i></div> <div>Uncapped</div> <div class="monthly-price-info">
                               R991
@@ -115,7 +115,7 @@ Data 20 Mbps Uncapped and Unshaped?</div></div></div> <div class="mt-3"><a href=
 Free wireless Fibre-ready router<br>
 No contracts (Month-to-month in advance)<br>
 Line Speed 50 Mbps Uncapped Fibre line (50 down, 50 up)<br>
-Data 50 Mbps Uncapped and Unshaped?</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=4" title="Select Package" class="btn btn-warning btn-sm btn-choose-package"><i class="fa fa-check-circle-o"></i> Choose
+Data 50 Mbps Uncapped and Unshaped?</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=4" title="Select Package" class="btn btn-warning btn-med btn-round btn-choose-package"><i class="fa fa-check-circle-o"></i> Order
                               </a></div></div></div><div class="col-md-2"><div class="package-info-box"><div class="speed-info">
                               100Mbps <i class="fa fa-download"></i></div> <div>Uncapped</div> <div class="monthly-price-info">
                               R1100
@@ -125,13 +125,13 @@ Data 50 Mbps Uncapped and Unshaped?</div></div></div> <div class="mt-3"><a href=
 Free wireless Fibre-ready router<br>
 No contracts (Month-to-month in advance)<br>
 Line Speed 100 Mbps Uncapped Fibre line (100 down, 100 up)<br>
-Data 100 Mbps Uncapped and Unshaped?</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=5" title="Select Package" class="btn btn-warning btn-sm btn-choose-package"><i class="fa fa-check-circle-o"></i> Choose
+Data 100 Mbps Uncapped and Unshaped?</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=5" title="Select Package" class="btn btn-warning btn-med btn-round btn-choose-package"><i class="fa fa-check-circle-o"></i> Order
                               </a></div></div></div></div></div></div></div><div class="col-md-12"><div class="card card-default card-package"><div class="card-header package-card-header" style="background-color: rgb(255, 255, 255);"><div><img src="https://demo.thefibreprovider.co.za/img/logos/providers/greencom-w.png" title="Greencom" style="max-height: 32px;"></div></div> <div class="card-body"><div class="row"><div class="col-md-2"><div class="package-info-box"><div class="speed-info">
                               10Mbps <i class="fa fa-download"></i></div> <div>Uncapped</div> <div class="monthly-price-info">
                               R549
                           </div> <div class="mt-3"><a href="#" class="load-more">More Info</a> <div class="mt-2" style="display: none;"><div class="mt-1">
                                       Install Fee: R0
-                                  </div> <div class="mt-3">10/10 Mbps Symmetric Link<br>Uncapped and Unshaped Internet Access<br>Includes free WiFi Router</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=8" title="Select Package" class="btn btn-warning btn-sm btn-choose-package"><i class="fa fa-check-circle-o"></i> Choose
+                                  </div> <div class="mt-3">10/10 Mbps Symmetric Link<br>Uncapped and Unshaped Internet Access<br>Includes free WiFi Router</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=8" title="Select Package" class="btn btn-warning btn-med btn-round btn-choose-package"><i class="fa fa-check-circle-o"></i> Order
                               </a></div></div></div><div class="col-md-2"><div class="package-info-box"><div class="speed-info">
                               20Mbps <i class="fa fa-download"></i></div> <div>Uncapped</div> <div class="monthly-price-info">
                               R799
@@ -140,7 +140,7 @@ Data 100 Mbps Uncapped and Unshaped?</div></div></div> <div class="mt-3"><a href
                                   </div> <div class="mt-3">20/20 Mbps Symmetric Link<br>
 Uncapped and Unshaped Internet Access<br>
 Includes free WiFi Router
-</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=9" title="Select Package" class="btn btn-warning btn-sm btn-choose-package"><i class="fa fa-check-circle-o"></i> Choose
+</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=9" title="Select Package" class="btn btn-warning btn-med btn-round btn-choose-package"><i class="fa fa-check-circle-o"></i> Order
                               </a></div></div></div><div class="col-md-2"><div class="package-info-box"><div class="speed-info">
                               50Mbps <i class="fa fa-download"></i></div> <div>Uncapped</div> <div class="monthly-price-info">
                               R999
@@ -149,7 +149,7 @@ Includes free WiFi Router
                                   </div> <div class="mt-3">50/50 Mbps Symmetric Link<br>
 Uncapped and Unshaped Internet Access<br>
 Includes free WiFi Router
-</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=10" title="Select Package" class="btn btn-warning btn-sm btn-choose-package"><i class="fa fa-check-circle-o"></i> Choose
+</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=10" title="Select Package" class="btn btn-warning btn-med btn-round btn-choose-package"><i class="fa fa-check-circle-o"></i> Order
                               </a></div></div></div><div class="col-md-2"><div class="package-info-box"><div class="speed-info">
                               100Mbps <i class="fa fa-download"></i></div> <div>Uncapped</div> <div class="monthly-price-info">
                               R1199
@@ -158,7 +158,7 @@ Includes free WiFi Router
                                   </div> <div class="mt-3">100/100 Mbps Symmetric Link<br>
 Uncapped and Unshaped Internet Access<br>
 Includes free WiFi Router
-</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=11" title="Select Package" class="btn btn-warning btn-sm btn-choose-package"><i class="fa fa-check-circle-o"></i> Choose
+</div></div></div> <div class="mt-3"><a href="/pages/steyn-city-parkland-residence/signup?package=11" title="Select Package" class="btn btn-warning btn-med btn-round btn-choose-package"><i class="fa fa-check-circle-o"></i> Order
                               </a></div></div></div></div></div></div></div> <h5 align="center" style="display: none;">No packages available at this time.</h5></div></div></div></div>
         </div>
     </div>
