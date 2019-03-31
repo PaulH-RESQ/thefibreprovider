@@ -174,7 +174,7 @@
         <th colspan="6">
           <div class="row">
             <div class="col-sm-12">
-              <img class="provider-logo" src="assets/imgs/providers/afrihost.png" alt="img">
+              <img class="provider-logo" src="/assets/imgs/providers/afrihost.png" alt="img">
             </div>
           </div>
         </th>
@@ -246,13 +246,13 @@
           <th colspan="3">
             <div class="row">
               <div class="col-sm-6">
-                <img class="provider-logo" src="assets/imgs/providers/afrihost_bw.png" alt="img">
+                <img class="provider-logo" src="/assets/imgs/providers/afrihost_bw.png" alt="img">
               </div>
               <div class="col-sm-6">
                 <div style="display:inline-flex" class="float-right">
                   <a id="close-btn" data-id="1">
                     <h2 class="text-white close-text">Close</h2>
-                    <img class="close-icon" src="assets/imgs/icons/cancel_icon.png" alt="img">
+                    <img class="close-icon" src="/assets/imgs/icons/cancel_icon.png" alt="img">
                   </a>
                 </div>
               </div>
@@ -278,15 +278,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">10Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">10Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -322,15 +322,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">25Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">25Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -366,15 +366,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">50Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">50Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -410,15 +410,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">100Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">100Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -454,15 +454,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">200Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">200Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped </h5>
                     </div>
                   </div>
@@ -496,7 +496,7 @@
         <th colspan="6">
           <div class="row">
             <div class="col-sm-12">
-              <img class="provider-logo" src="assets/imgs/providers/homeconnect.png" alt="img">
+              <img class="provider-logo" src="/assets/imgs/providers/homeconnect.png" alt="img">
             </div>
           </div>
         </th>
@@ -568,13 +568,13 @@
           <th colspan="3">
             <div class="row">
               <div class="col-sm-6">
-                <img class="provider-logo" src="assets/imgs/providers/homeconnect_bw.png" alt="img">
+                <img class="provider-logo" src="/assets/imgs/providers/homeconnect_bw.png" alt="img">
               </div>
               <div class="col-sm-6">
                 <div style="display:inline-flex" class="float-right">
                   <a id="close-btn" data-id="5">
                     <h2 class="text-white close-text">Close</h2>
-                    <img class="close-icon" src="assets/imgs/icons/cancel_icon.png" alt="img">
+                    <img class="close-icon" src="/assets/imgs/icons/cancel_icon.png" alt="img">
                   </a>
                 </div>
               </div>
@@ -600,15 +600,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">5Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">5Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -644,15 +644,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">10Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">10Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -688,15 +688,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">25Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">25Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -732,15 +732,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">50Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">50Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -776,15 +776,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">100Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">100Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -818,7 +818,7 @@
         <th colspan="6">
           <div class="row">
             <div class="col-sm-12">
-              <img class="provider-logo" src="assets/imgs/providers/firestream.png" alt="img">
+              <img class="provider-logo" src="/assets/imgs/providers/firestream.png" alt="img">
             </div>
           </div>
         </th>
@@ -890,13 +890,13 @@
           <th colspan="3">
             <div class="row">
               <div class="col-sm-6">
-                <img class="provider-logo" src="assets/imgs/providers/firestream_bw.png" alt="img">
+                <img class="provider-logo" src="/assets/imgs/providers/firestream_bw.png" alt="img">
               </div>
               <div class="col-sm-6">
                 <div style="display:inline-flex" class="float-right">
                   <a id="close-btn" data-id="4">
                     <h2 class="text-white close-text">Close</h2>
-                    <img class="close-icon" src="assets/imgs/icons/cancel_icon.png" alt="img">
+                    <img class="close-icon" src="/assets/imgs/icons/cancel_icon.png" alt="img">
                   </a>
                 </div>
               </div>
@@ -922,15 +922,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">10Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">10Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -966,15 +966,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">25Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">25Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1010,15 +1010,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">50Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">50Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1054,15 +1054,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">100Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">100Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1098,15 +1098,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">200Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">200Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1140,7 +1140,7 @@
         <th colspan="6">
           <div class="row">
             <div class="col-sm-12">
-              <img class="provider-logo" src="assets/imgs/providers/axxess.png" alt="img">
+              <img class="provider-logo" src="/assets/imgs/providers/axxess.png" alt="img">
             </div>
           </div>
         </th>
@@ -1212,13 +1212,13 @@
           <th colspan="3">
             <div class="row">
               <div class="col-sm-6">
-                <img class="provider-logo" src="assets/imgs/providers/axxess_bw.png" alt="img">
+                <img class="provider-logo" src="/assets/imgs/providers/axxess_bw.png" alt="img">
               </div>
               <div class="col-sm-6">
                 <div style="display:inline-flex" class="float-right">
                   <a id="close-btn" data-id="2">
                     <h2 class="text-white close-text">Close</h2>
-                    <img class="close-icon" src="assets/imgs/icons/cancel_icon.png" alt="img">
+                    <img class="close-icon" src="/assets/imgs/icons/cancel_icon.png" alt="img">
                   </a>
                 </div>
               </div>
@@ -1244,15 +1244,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">10Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">10Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1288,15 +1288,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">25Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">25Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1332,15 +1332,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">50Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">50Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1376,15 +1376,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">100Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">100Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1420,15 +1420,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">200Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">200Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1462,7 +1462,7 @@
         <th colspan="6">
           <div class="row">
             <div class="col-sm-12">
-              <img class="provider-logo" src="assets/imgs/providers/cisp.png" alt="img">
+              <img class="provider-logo" src="/assets/imgs/providers/cisp.png" alt="img">
             </div>
           </div>
         </th>
@@ -1534,13 +1534,13 @@
           <th colspan="3">
             <div class="row">
               <div class="col-sm-6">
-                <img class="provider-logo" src="assets/imgs/providers/cisp_bw.png" alt="img">
+                <img class="provider-logo" src="/assets/imgs/providers/cisp_bw.png" alt="img">
               </div>
               <div class="col-sm-6">
                 <div style="display:inline-flex" class="float-right">
                   <a id="close-btn" data-id="3">
                     <h2 class="text-white close-text">Close</h2>
-                    <img class="close-icon" src="assets/imgs/icons/cancel_icon.png" alt="img">
+                    <img class="close-icon" src="/assets/imgs/icons/cancel_icon.png" alt="img">
                   </a>
                 </div>
               </div>
@@ -1566,15 +1566,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">10Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">10Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1610,15 +1610,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">25Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">25Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1654,15 +1654,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">50Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">50Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1698,15 +1698,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">100Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">100Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
@@ -1742,15 +1742,15 @@
                 <div class="col-sm-12 mt-2 mb-2">
                   <div class="row pt-3">
                     <div class="col-4">
-                      <h5>Download <img src="assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
+                      <h5>Download <img src="/assets/imgs/icons/down.png" class="ml-4" alt="" srcset=""></h5>
                       <h5 class="primary">200Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Upload <img class="ml-4" src="assets/imgs/icons/up.png" alt="" srcset=""></h5>
+                      <h5>Upload <img class="ml-4" src="/assets/imgs/icons/up.png" alt="" srcset=""></h5>
                       <h5 class="primary">200Mbps</h5>
                     </div>
                     <div class="col-4">
-                      <h5>Cap <img class="ml-4" src="assets/imgs/icons/cap.png" alt="" srcset=""></h5>
+                      <h5>Cap <img class="ml-4" src="/assets/imgs/icons/cap.png" alt="" srcset=""></h5>
                       <h5 class="primary">Uncapped</h5>
                     </div>
                   </div>
