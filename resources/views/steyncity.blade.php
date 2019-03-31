@@ -263,8 +263,8 @@
   <!-- <script src="assets/js/jquery.ui.touch-punch.min.js"></script> -->
   <!-- <script src="assets/js/budget-slider.js"></script> -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.3/owl.carousel.min.js"></script>
-  <script src="/dashboard/assets/js/handlebars.min-latest.js"></script>
-  <script src="/dashboard/assets/js/cleave.min.js"></script>
+  <script src="/assets/js/handlebars.min-latest.js"></script>
+  <script src="/assets/js/cleave.min.js"></script>
   <script src="/assets/js/loader.js"></script>
   <script src="/assets/js/scrollup.js"></script>
   <script src="/assets/js/index.js"></script>
