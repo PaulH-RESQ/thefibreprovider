@@ -517,7 +517,7 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
   background-color: #ffc107;
   border-color: #ffc107;
   color: #000000;
-  font-weight: inherit;
+  font-weight: 501;
   opacity: 1;
   filter: alpha(opacity=100);
 }
