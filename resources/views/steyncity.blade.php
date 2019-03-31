@@ -218,7 +218,7 @@
             <script>
               document.write(new Date().getFullYear())
             </script>
-            All Rights Reserved || <b class="font-italic font-weight-bold">Powered by Fibre Compare</b>
+            All Rights Reserved || <b class="font-italic font-weight-bold">Powered by The Fibre Provider</b>
           </p>
         </div>
       </div>
