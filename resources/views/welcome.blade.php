@@ -14,6 +14,7 @@
     <!-- Bootstrap core CSS     -->
     <link href="/css/bootstrap.min.css" rel="stylesheet"/>
     <link href="/css/paper-kit.css?v=2.1.0" rel="stylesheet"/>
+    <link href="/assets/css/business-frontpage.css" rel="stylesheet">
 
     <!--  CSS for Demo Purpose, don't include it in your project     -->
     <link href="/css/demo.css" rel="stylesheet"/>
