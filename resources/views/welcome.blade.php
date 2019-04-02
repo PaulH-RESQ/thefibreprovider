@@ -34,30 +34,35 @@
 </head>
 <body>
 <div id="spark-app" v-cloak>
-    <nav class="navbar navbar-expand-lg fixed-top navbar-transparent" color-on-scroll="300">
-        <div class="container">
-            <div class="navbar-translate">
-                <a class="navbar-brand" href="/">The Fibre Provider</a>
-                <button class="navbar-toggler navbar-toggler-right navbar-burger" type="button" data-toggle="collapse"
-                        data-target="#navbarToggler" aria-controls="navbarTogglerDemo02" aria-expanded="false"
-                        aria-label="Toggle navigation">
-                    <span class="navbar-toggler-bar"></span>
-                    <span class="navbar-toggler-bar"></span>
-                    <span class="navbar-toggler-bar"></span>
-                </button>
-            </div>
-            <div class="collapse navbar-collapse" id="navbarToggler">
 
+  <nav class="navbar nav-custom navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+          <a class="navbar-brand" href="index.php">
+              <img src="/assets/imgs/logo/cs_bw_sm.png">
+              Connectivity Services
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
+                  aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
 
-
-
-
-
-
-
-            </div>
-        </div>
-    </nav>
+              <ul class="navbar-nav ml-auto">
+                  <li class="nav-item active">
+                      <a class="nav-link" href="index.php">Hom<span class='active-menu'>e</span>
+                          <span class="sr-only">(current)</span>
+                      </a>
+                  </li>
+                  <li class="nav-item ">
+                      <a class="nav-link" href="contact.php">Providers</a>
+                  </li>
+                  <li class="nav-item ">
+                      <a class="nav-link" href="showmax.php">Showmax</a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </nav>
 
 
     <div class="page-header" data-parallax="true"
