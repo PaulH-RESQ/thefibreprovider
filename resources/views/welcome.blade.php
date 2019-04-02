@@ -65,14 +65,60 @@
   </nav>
 
 
-    <div class="page-header" data-parallax="true"
-         style="background-image: url('http://demo.steyncityfibre.co.za/assets/imgs/banners/steyn-city.jpg');">
-        <div class="container">
-            <div class="motto text-center">
-
-            </div>
+  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <!-- <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="7"></li> -->
+      </ol>
+      <div class="carousel-inner" role="listbox">
+          <div class="carousel-item active">
+              <img class="d-block img-fluid" src="/assets/imgs/banners/steyn-city.jpg" alt="First slide">
+          </div>
+          <!-- <div class="carousel-item">
+              <img class="d-block img-fluid" src="assets/imgs/banners/banner4.jpg" alt="Third slide">
+          </div>
+          <div class="carousel-item">            <script>
+                document.write(new Date().getFullYear())
+              </script>
+              All Rights Reserved || <b class="font-italic font-weight-bold">Powered by Fibre Compare</b>
+              All Rights Reserved || <b class="font-italic font-weight-bold">Powered by The Fibre Provider</b>
+            </p>
+          </div>
         </div>
-    </div>
+              <img class="d-block img-fluid" src="assets/imgs/banners/mtn-banner.jpg" alt="Third slide">
+          </div>
+          <div class="carousel-item">
+              <img class="d-block img-fluid" src="assets/imgs/banners/banner1.jpg" alt="Third slide">
+          </div>
+          <div class="carousel-item">
+              <img class="d-block img-fluid" src="assets/imgs/banners/banner2.jpg" alt="Third slide">
+          </div>
+          <div class="carousel-item">
+              <img class="d-block img-fluid" src="assets/imgs/banners/banner3.jpg" alt="Third slide">
+          </div>
+
+          <div class="carousel-item">
+              <img class="d-block img-fluid" src="assets/imgs/banners/centracom.jpg" alt="Third slide">
+          </div>
+          <div class="carousel-item">
+              <img class="d-block img-fluid" src="assets/imgs/banners/green.jpg" alt="Second slide">
+          </div> -->
+      </div>
+      <!-- <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+      </a> -->
+  </div>
     <div class="main">
         <div class="section text-center">
             <div class="container">
