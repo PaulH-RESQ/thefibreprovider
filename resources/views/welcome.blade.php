@@ -53,10 +53,7 @@
                       <a class="nav-link" href="index.php">Hom<span class='active-menu'>e</span>
                           <span class="sr-only">(current)</span>
                       </a>
-                  </li>
-                  <li class="nav-item ">
-                      <a class="nav-link" href="contact.php">Providers</a>
-                  </li>
+                  </li>                  
                   <li class="nav-item ">
                       <a class="nav-link" href="login">Login</a>
                   </li>
