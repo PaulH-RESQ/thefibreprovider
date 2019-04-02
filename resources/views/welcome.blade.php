@@ -39,7 +39,7 @@
   <nav class="navbar nav-custom navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
           <a class="navbar-brand" href="index.php">
-              <img src="/assets/imgs/logo/TFP-Logo.png" width="200" height="200">
+              <img src="/assets/imgs/logo/TFP-Logo.png" width="50%" height="50%">
               The Fibre Provider
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
